@@ -45,6 +45,7 @@ Collaborated on innovative IT projects.
 
 **Certifications**
 Python Essentials 
+
 UI/UX Design 
 
 **Let's Connect**
