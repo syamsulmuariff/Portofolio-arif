@@ -44,6 +44,7 @@ Organized workshops and technology seminars for students.
 Collaborated on innovative IT projects.
 
 **Certifications**
+
 Python Essentials 
 
 UI/UX Design 
